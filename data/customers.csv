@@ -1,0 +1,16 @@
+customer_id,name,email,city,state,age,signup_date,is_active
+C001,Rahul Sharma,rahul@email.com,Mumbai,Maharashtra,28,2023-01-15,true
+C002,Priya Patel,priya@email.com,Ahmedabad,Gujarat,34,2023-02-20,true
+C003,Amit Kumar,amit@email.com,Delhi,Delhi,45,2022-11-10,false
+C004,Sneha Reddy,sneha@email.com,Hyderabad,Telangana,29,2023-03-05,true
+C005,Vikram Singh,vikram@email.com,Jaipur,Rajasthan,38,2022-08-18,true
+C006,Anita Desai,,Pune,Maharashtra,31,2023-04-12,true
+C007,Raj Malhotra,raj@email.com,Bangalore,Karnataka,42,2022-06-25,false
+C008,Deepa Nair,deepa@email.com,Kochi,Kerala,27,2023-05-30,true
+C009,Suresh Iyer,suresh@email.com,,Tamil Nadu,36,2023-01-08,true
+C010,Kavita Joshi,kavita@email.com,Pune,Maharashtra,33,2023-06-15,false
+C011,Arjun Mehta,arjun@email.com,Mumbai,Maharashtra,26,2023-07-20,true
+C012,Pooja Gupta,pooja@email.com,Delhi,Delhi,40,2022-09-14,true
+C013,Ravi Krishnan,,Chennai,Tamil Nadu,35,2023-02-28,false
+C014,Meera Shah,meera@email.com,Ahmedabad,Gujarat,30,2023-08-10,true
+C015,Karthik Raman,karthik@email.com,Bangalore,Karnataka,,2023-03-22,true
